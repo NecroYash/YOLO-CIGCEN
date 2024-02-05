@@ -1,5 +1,5 @@
 # YOLO-CIGCEN
-Aplikasi penyensoran objek rokok otomatis menggunakan teknologi Yolov5 /n
+Aplikasi penyensoran objek rokok otomatis menggunakan teknologi Yolov5 \n
 
 panduan installasi:
 -clone/download repositori ini
